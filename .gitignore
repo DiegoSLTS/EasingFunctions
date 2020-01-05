@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+Easing.suo
+Easing.v12.suo
+.vs/
+Debug/Easing.pdb
+Debug/Easing.ilk
+Debug/Easing.exe.metagen
+Easing/Debug/
+Easing/Release/
+Easing/SDL2_image-2.0.0/
+Easing/SDL2_ttf-2.0.12/
+Easing/SDL2-2.0.3/
+Release/Easing.pdb
+Release/Easing.exe.metagen
